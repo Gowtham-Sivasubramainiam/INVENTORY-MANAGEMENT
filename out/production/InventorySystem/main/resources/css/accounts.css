@@ -1,0 +1,31 @@
+.root {
+    -fx-background-color: yellow;
+}
+.button {
+    -fx-background-radius: 35 35 35 35;
+}
+#accountPane
+{
+-fx-background-image:url("../icons/WO.jpg");
+}
+
+#j
+{
+-fx-background-image:url("../icons/WO.jpg");
+}
+#txtAccountID
+{
+-fx-text-fill:"white";
+}
+#txtCustomerID
+{
+-fx-text-fill:"white";
+}
+#txtPayMethod
+ {
+ -fx-text-fill:"white";
+ }
+ #txtSearch
+ {
+ -fx-text-fill:"white";
+ }

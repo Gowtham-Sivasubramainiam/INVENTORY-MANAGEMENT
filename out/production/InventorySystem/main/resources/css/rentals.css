@@ -1,0 +1,51 @@
+.root {
+    -fx-background-color: white;
+}
+.button {
+    -fx-background-radius: 35 35 35 35;
+}
+#rightPane
+{
+-fx-background-image:url("../icons/WO.jpg");
+}
+#a23
+{
+-fx-background-image:url("../icons/WO.jpg");
+}
+#txtCustomerId
+{
+-fx-text-fill: white;
+}
+#txtQty
+{
+-fx-text-fill: white;
+-fx-font-family: "algerian";
+}
+#lblId
+{
+-fx-text-fill: white;
+-fx-font-family: "algerian";
+}
+#txtItemId
+{
+-fx-text-fill: white;
+-fx-font-family: "algerian";
+}
+#txtReturnDate
+{
+-fx-text-fill: white;
+ -fx-background-color: white;
+-fx-font-family: "algerian";
+}
+#txtRentalDate
+{
+-fx-text-fill: white;
+ -fx-background-color: white;
+-fx-font-family: "algerian";
+}
+#txtPayAmount
+{
+-fx-text-fill: white;
+-fx-font-family: "algerian";
+}
+

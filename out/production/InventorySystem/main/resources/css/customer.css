@@ -1,0 +1,68 @@
+.root {
+    -fx-background-color: white;
+}
+
+#topPane {
+    -fx-background-color:  white;
+}
+
+.jfx-radio-button {
+    -fx-selected-color: white;
+    -fx-unselected-color: white;
+}
+
+.button {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-text-alignment: center;
+}
+
+.button:hover {
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+}
+
+.button:pressed:hover {
+    -fx-background-color: white;
+}
+#cusTomerPane
+{
+-fx-background-image:url("../icons/WO.jpg");
+}
+#txtSearch
+{
+-fx-background-color: white;
+      -fx-font-weight: bold;
+          -fx-font-family: "algerian";
+          }
+#txtFName
+{
+-fx-text-fill: white;
+      -fx-font-weight: bold;
+          -fx-font-family: "algerian";
+          }
+
+ #email
+ {
+ -fx-text-fill: white;
+  -fx-font-weight: bold;
+    -fx-font-family: "algerian";
+  }
+ #phone
+ {
+ -fx-text-fill: white;
+  -fx-font-weight: bold;
+ -fx-font-family: "algerian";
+  }
+ #address
+ {
+ -fx-text-fill: white;
+  -fx-font-weight: bold;
+ -fx-font-family: "algerian";
+  }
+ #txtLName
+ {
+ -fx-text-fill: white;
+  -fx-font-weight: bold;
+ -fx-font-family: "algerian";
+  }

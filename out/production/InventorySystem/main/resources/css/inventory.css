@@ -1,0 +1,77 @@
+.button {
+    -fx-background-color: white;
+    -fx-text-fill: #263238;
+}
+
+.button:hover {
+    -fx-background-color: white;
+    -fx-font-weight: bold;
+        -fx-font-family: "algerian";
+
+
+}
+
+.button:hover:pressed {
+    -fx-background-color: white;
+}
+#a1
+{
+-fx-background-image:url("../icons/WO.jpg");
+}
+#a2
+{
+-fx-background-image:url("../icons/WO.jpg");
+}
+#txtItemName
+{
+-fx-text-fill: white;
+    -fx-font-weight: bold;
+        -fx-font-family: "algerian";
+
+}
+#txtType
+{
+-fx-background-color: white;
+     -fx-text-fill: white;
+    -fx-font-weight: bold;
+        -fx-font-family: "algerian";
+
+}
+#chkSale
+{
+-fx-text-fill: white;
+    -fx-font-weight: bold;
+        -fx-font-family: "algerian";
+}
+#chkRent
+{
+-fx-text-fill: white;
+    -fx-font-weight: bold;
+        -fx-font-family: "algerian";
+}
+#txtPrice
+ {
+ -fx-text-fill: white;
+     -fx-font-weight: bold;
+         -fx-font-family: "algerian";
+ }
+#txtRentRate
+{
+ -fx-text-fill: white;
+     -fx-font-weight: bold;
+         -fx-font-family: "algerian";
+ }
+ #txtStock
+ {
+  -fx-text-fill: white;
+  -fx-background-color: white;
+      -fx-font-weight: bold;
+          -fx-font-family: "algerian";
+  }
+  #txtSearch
+  {
+    -fx-text-fill: white;
+    -fx-background-color: white;
+        -fx-font-weight: bold;
+            -fx-font-family: "algerian";
+    }

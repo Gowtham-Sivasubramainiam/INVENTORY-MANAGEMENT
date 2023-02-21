@@ -1,0 +1,36 @@
+
+.root {
+    -fx-background-image: url("../icons/WO.jpg");
+}
+
+#topPane {
+    -fx-background-image:url("../icons/WO.jpg");
+}
+#txtPassword
+{
+-fx-text-fill:"white";
+ -fx-font-size: 24;
+  -fx-font-family: "algerian";
+}
+#txtUsername
+{
+-fx-text-fill:"white";
+ -fx-font-size: 24;
+}
+
+.button {
+    -fx-background-color: "skyblue";
+    -fx-text-fill: black;
+    -fx-text-alignment: center;
+    -fx-border-radius: 0 0 0 0;
+    -fx-font-size: 15px;
+       -fx-font-family: "Algerian";
+
+}
+.button:pressed:hover {
+    -fx-scale-y: 0.95;
+    -fx-scale-x: 0.95;
+    -fx-border-color:"skyblue";
+}
+
+
